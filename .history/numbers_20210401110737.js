@@ -18,7 +18,6 @@ console.log(introSentence + " " + age);
 // "hello, my name is Fran and I am 25"
 
 // * In this case, what is the`+` operator doing ? Comment your answer in the js file.
-// + operator is merging string and number
 
 // #### 2. Converting
 // * Create a variable with the value of "1005".Convert it to a number.
